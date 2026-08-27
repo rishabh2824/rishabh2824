@@ -168,15 +168,7 @@ A scroll-driven WebGL workspace built with React Three Fiber and GSAP — keyboa
 
 ### `$ watch -n1 github`
 
-<!-- ===== STATS BLOCK — delete everything down to the next ==== marker if your
-     contribution graph is still sparse. Turn on Settings > Public profile >
-     "Include private contributions on my profile" first; that alone fixes it. -->
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishabh2824&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0E14&title_color=38BDF8&icon_color=A78BFA&text_color=8B98AB&ring_color=A78BFA" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh2824&layout=compact&langs_count=8&hide_border=true&bg_color=0B0E14&title_color=38BDF8&text_color=8B98AB" alt="Top languages">
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabh2824/rishabh2824/output/snake-dark.svg">
@@ -185,7 +177,6 @@ A scroll-driven WebGL workspace built with React Three Fiber and GSAP — keyboa
 </picture>
 
 </div>
-<!-- ===== end STATS BLOCK ===== -->
 
 ---
 

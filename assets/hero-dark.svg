@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Rishabh Jain — full-stack and AI engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0E14"/><stop offset="100%" stop-color="#11151F"/>
+    </linearGradient>
+    <radialGradient id="lamp" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="under" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/><stop offset="55%" stop-color="#A78BFA"/><stop offset="100%" stop-color="#FF4D5A"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/><stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <pattern id="keypat" x="792" y="306" width="19" height="15" patternUnits="userSpaceOnUse">
+      <rect width="15" height="11" rx="2.5" fill="#1B2230" stroke="#2A3448" stroke-width="0.8"/>
+    </pattern>
+    <pattern id="gridpat" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none" stroke="#1E2637" stroke-width="1"/>
+    </pattern>
+    <clipPath id="screenClip"><rect x="742" y="62" width="376" height="188" rx="8"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#gridpat)" opacity="0.55"/>
+  <ellipse cx="930" cy="40" rx="330" ry="200" fill="url(#lamp)"/>
+
+  <!-- ================= left: identity ================= -->
+  <text x="64" y="126" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="1.5" fill="#E6EDF3">RISHABH JAIN</text>
+  <rect x="66" y="146" width="104" height="5" rx="2.5" fill="url(#rule)"/>
+  <text x="64" y="192" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="21" font-weight="600" fill="#8B98AB">Full-stack Engineer <tspan fill="#38BDF8">·</tspan> AI Systems <tspan fill="#38BDF8">·</tspan> MS CS @ UW–Madison</text>
+
+  <g font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5">
+    <text x="64" y="234" fill="#4ADE80">$<tspan fill="#E6EDF3" dx="8">whoami</tspan></text>
+    <text x="64" y="262" fill="#38BDF8">I ship AI products that survive real users.</text>
+    <rect x="481" y="250" width="9" height="16" fill="#38BDF8">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">
+    <rect x="64" y="292" width="170" height="30" rx="15" fill="#151C29" stroke="#27324a"/>
+    <circle cx="82" cy="307" r="4" fill="#4ADE80"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="94" y="312" fill="#8B98AB">Open to New Grad 2027</text>
+
+    <rect x="244" y="292" width="112" height="30" rx="15" fill="#151C29" stroke="#27324a"/>
+    <text x="262" y="312" fill="#8B98AB">Madison, WI</text>
+
+    <rect x="366" y="292" width="162" height="30" rx="15" fill="#151C29" stroke="#27324a"/>
+    <text x="384" y="312" fill="#8B98AB">Badger Solar Racing</text>
+  </g>
+
+  <!-- ================= right: the desk ================= -->
+  <g>
+    <!-- monitor -->
+    <rect x="736" y="56" width="388" height="200" rx="12" fill="#1B2230" stroke="#2A3448" stroke-width="1.5"/>
+    <rect x="742" y="62" width="376" height="188" rx="8" fill="#0A0D13"/>
+    <g clip-path="url(#screenClip)">
+      <rect x="742" y="62" width="376" height="22" fill="#1B2230" opacity="0.75"/>
+      <circle cx="756" cy="73" r="4" fill="#FF4D5A"/><circle cx="770" cy="73" r="4" fill="#FBBF24"/><circle cx="784" cy="73" r="4" fill="#4ADE80"/>
+      <rect x="772" y="96" width="96" height="7" rx="3.5" fill="#A78BFA" opacity="0.85"><animate attributeName="width" values="0;96;96" dur="4.5s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;.35" dur="4.5s" begin="0.0s" repeatCount="indefinite"/></rect><rect x="750" y="96" width="16" height="7" rx="3.5" fill="#8B98AB" opacity="0.45"/><rect x="772" y="116" width="68" height="7" rx="3.5" fill="#4ADE80" opacity="0.85"><animate attributeName="width" values="0;68;68" dur="4.5s" begin="0.35s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;.35" dur="4.5s" begin="0.35s" repeatCount="indefinite"/></rect><rect x="750" y="116" width="16" height="7" rx="3.5" fill="#8B98AB" opacity="0.45"/><rect x="772" y="136" width="130" height="7" rx="3.5" fill="#8B98AB" opacity="0.85"><animate attributeName="width" values="0;130;130" dur="4.5s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;.35" dur="4.5s" begin="0.7s" repeatCount="indefinite"/></rect><rect x="750" y="136" width="16" height="7" rx="3.5" fill="#8B98AB" opacity="0.45"/><rect x="772" y="156" width="84" height="7" rx="3.5" fill="#FBBF24" opacity="0.85"><animate attributeName="width" values="0;84;84" dur="4.5s" begin="1.05s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;.35" dur="4.5s" begin="1.05s" repeatCount="indefinite"/></rect><rect x="750" y="156" width="16" height="7" rx="3.5" fill="#8B98AB" opacity="0.45"/><rect x="772" y="176" width="58" height="7" rx="3.5" fill="#38BDF8" opacity="0.85"><animate attributeName="width" values="0;58;58" dur="4.5s" begin="1.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;.35" dur="4.5s" begin="1.4s" repeatCount="indefinite"/></rect><rect x="750" y="176" width="16" height="7" rx="3.5" fill="#8B98AB" opacity="0.45"/><rect x="772" y="196" width="112" height="7" rx="3.5" fill="#A78BFA" opacity="0.85"><animate attributeName="width" values="0;112;112" dur="4.5s" begin="1.75s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;.35" dur="4.5s" begin="1.75s" repeatCount="indefinite"/></rect><rect x="750" y="196" width="16" height="7" rx="3.5" fill="#8B98AB" opacity="0.45"/>
+      <rect x="742" y="222" width="376" height="28" fill="#1B2230" opacity="0.6"/>
+      <text x="754" y="241" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#4ADE80">● deploy: passing</text>
+      <text x="1010" y="241" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8B98AB">main ⇡</text>
+    </g>
+    <!-- stand -->
+    <path d="M905 256 h50 l12 34 h-74 z" fill="#1B2230" stroke="#2A3448" stroke-width="1.2"/>
+    <rect x="868" y="288" width="124" height="8" rx="4" fill="#1B2230" stroke="#2A3448" stroke-width="1.2"/>
+
+    <!-- desk + neon underglow -->
+    <rect x="690" y="296" width="470" height="6" rx="3" fill="#161C28"/>
+    <rect x="700" y="299" width="450" height="4" rx="2" fill="url(#under)" opacity="0.9" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <ellipse cx="925" cy="316" rx="220" ry="26" fill="url(#under)" opacity="0.12" filter="url(#soft)"/>
+
+    <!-- keyboard -->
+    <rect x="786" y="300" width="278" height="52" rx="8" fill="#161C28" stroke="#2A3448" stroke-width="1.2"/>
+    <rect x="792" y="306" width="266" height="41" fill="url(#keypat)"/>
+    <!-- mouse -->
+    <rect x="1080" y="308" width="30" height="42" rx="15" fill="#161C28" stroke="#2A3448" stroke-width="1.2"/>
+    <line x1="1095" y1="316" x2="1095" y2="328" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- mug + steam -->
+    <rect x="716" y="266" width="34" height="30" rx="5" fill="#161C28" stroke="#2A3448" stroke-width="1.2"/>
+    <path d="M750 274 q12 0 12 8 t-12 8" fill="none" stroke="#2A3448" stroke-width="2.5"/>
+    <g stroke="#8B98AB" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.6">
+      <path d="M726 260 q4 -8 0 -14"><animate attributeName="opacity" values="0;.7;0" dur="3s" repeatCount="indefinite"/></path>
+      <path d="M736 258 q4 -8 0 -14"><animate attributeName="opacity" values="0;.7;0" dur="3s" begin="1s" repeatCount="indefinite"/></path>
+    </g>
+  </g>
+</svg>

@@ -8,10 +8,10 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rishabhportflio.com-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0E14)](https://rishabhportflio.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rishabhjain2824-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0E14)](https://www.linkedin.com/in/rishabhjain2824/)
-[![Email](https://img.shields.io/badge/Email-rishabh2824@gmail.com-FF4D5A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0E14)](mailto:rishabh2824@gmail.com)
-[![Resume](https://img.shields.io/badge/Résumé-PDF-4ADE80?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0B0E14)](https://rishabhportflio.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0B0E14&labelColor=0B0E14)](https://rishabhportflio.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=0B0E14&labelColor=0B0E14)](https://www.linkedin.com/in/rishabhjain2824/)
+[![Email](https://img.shields.io/badge/Email-FF4D5A?style=for-the-badge&logo=gmail&logoColor=0B0E14&labelColor=0B0E14)](mailto:rishabh2824@gmail.com)
+[![Resume](https://img.shields.io/badge/Résumé-4ADE80?style=for-the-badge&logo=readdotcv&logoColor=0B0E14&labelColor=0B0E14)](https://rishabhportflio.com/)
 
 </div>
 

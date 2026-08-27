@@ -180,13 +180,6 @@ A scroll-driven WebGL workspace built with React Three Fiber and GSAP — keyboa
 
 ---
 
-### `$ cat ~/.offline`
-
-- 🏎️ **Race strategy** for [Badger Solar Racing](https://www.badgersolarracing.com/) — modeling optimal racing lines and target speeds a driver can actually follow at speed.
-- ✈️ Perpetually optimizing something: award flights, a Postgres query, the layout of my desk.
-
----
-
 <div align="center">
 
 ### `$ ./contact.sh`
